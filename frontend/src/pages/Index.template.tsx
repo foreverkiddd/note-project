@@ -10,7 +10,8 @@ export const IndexTemplate: React.FC = () => {
       <AppTitle>Programmers Note Editor</AppTitle>
 
       <AppDescription>
-        <strong>Programmers Note Editor</strong>는 웹 브라우저에서 사용할 수 있는 메모장 서비스입니다.
+        <strong>Programmers Note Editor</strong>는 웹 브라우저에서 사용할 수
+        있는 메모장 서비스입니다.
         <br />
         메모는 클라우드에 저장되어 언제 어디서나 접근할 수 있습니다.
       </AppDescription>

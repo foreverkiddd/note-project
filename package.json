@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tsconfig-paths-webpack-plugin": "^4.2.0"
+  }
+}
